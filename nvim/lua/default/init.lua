@@ -1,0 +1,5 @@
+require('default/telescope')
+require('default/lightline')
+require('default/lsp_installer')
+require('default/gitsigns')
+require('default/compe')
